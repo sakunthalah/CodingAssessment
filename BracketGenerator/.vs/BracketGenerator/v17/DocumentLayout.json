@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0D839-5192-4FEC-904C-98110CEA272E}|tests\\BracketGenerator.Tests\\BracketGenerator.Tests.csproj|c:\\codingchallenge.backend.bracketgenerator\\bracketgenerator\\tests\\bracketgenerator.tests\\teamtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0D839-5192-4FEC-904C-98110CEA272E}|tests\\BracketGenerator.Tests\\BracketGenerator.Tests.csproj|solutionrelative:tests\\bracketgenerator.tests\\teamtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0D839-5192-4FEC-904C-98110CEA272E}|tests\\BracketGenerator.Tests\\BracketGenerator.Tests.csproj|c:\\codingchallenge.backend.bracketgenerator\\bracketgenerator\\tests\\bracketgenerator.tests\\matchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0D839-5192-4FEC-904C-98110CEA272E}|tests\\BracketGenerator.Tests\\BracketGenerator.Tests.csproj|solutionrelative:tests\\bracketgenerator.tests\\matchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0D839-5192-4FEC-904C-98110CEA272E}|tests\\BracketGenerator.Tests\\BracketGenerator.Tests.csproj|c:\\codingchallenge.backend.bracketgenerator\\bracketgenerator\\tests\\bracketgenerator.tests\\tournamentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0D839-5192-4FEC-904C-98110CEA272E}|tests\\BracketGenerator.Tests\\BracketGenerator.Tests.csproj|solutionrelative:tests\\bracketgenerator.tests\\tournamentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}|src\\BracketGenerator\\BracketGenerator.csproj|c:\\codingchallenge.backend.bracketgenerator\\bracketgenerator\\src\\bracketgenerator\\services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}|src\\BracketGenerator\\BracketGenerator.csproj|solutionrelative:src\\bracketgenerator\\services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}|src\\BracketGenerator\\BracketGenerator.csproj|c:\\codingchallenge.backend.bracketgenerator\\bracketgenerator\\src\\bracketgenerator\\interfaces\\itournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}|src\\BracketGenerator\\BracketGenerator.csproj|solutionrelative:src\\bracketgenerator\\interfaces\\itournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}|src\\BracketGenerator\\BracketGenerator.csproj|c:\\codingchallenge.backend.bracketgenerator\\bracketgenerator\\src\\bracketgenerator\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}|src\\BracketGenerator\\BracketGenerator.csproj|solutionrelative:src\\bracketgenerator\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}|src\\BracketGenerator\\BracketGenerator.csproj|c:\\codingchallenge.backend.bracketgenerator\\bracketgenerator\\src\\bracketgenerator\\model\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}|src\\BracketGenerator\\BracketGenerator.csproj|solutionrelative:src\\bracketgenerator\\model\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}|src\\BracketGenerator\\BracketGenerator.csproj|c:\\codingchallenge.backend.bracketgenerator\\bracketgenerator\\src\\bracketgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}|src\\BracketGenerator\\BracketGenerator.csproj|solutionrelative:src\\bracketgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamTests.cs",
+              "DocumentMoniker": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\tests\\BracketGenerator.Tests\\TeamTests.cs",
+              "RelativeDocumentMoniker": "tests\\BracketGenerator.Tests\\TeamTests.cs",
+              "ToolTip": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\tests\\BracketGenerator.Tests\\TeamTests.cs",
+              "RelativeToolTip": "tests\\BracketGenerator.Tests\\TeamTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:29:23.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchTests.cs",
+              "DocumentMoniker": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\tests\\BracketGenerator.Tests\\MatchTests.cs",
+              "RelativeDocumentMoniker": "tests\\BracketGenerator.Tests\\MatchTests.cs",
+              "ToolTip": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\tests\\BracketGenerator.Tests\\MatchTests.cs",
+              "RelativeToolTip": "tests\\BracketGenerator.Tests\\MatchTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:19:01.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TournamentService.cs",
+              "DocumentMoniker": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\src\\BracketGenerator\\Services\\TournamentService.cs",
+              "RelativeDocumentMoniker": "src\\BracketGenerator\\Services\\TournamentService.cs",
+              "ToolTip": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\src\\BracketGenerator\\Services\\TournamentService.cs",
+              "RelativeToolTip": "src\\BracketGenerator\\Services\\TournamentService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAjwH0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:26:45.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TournamentServiceTests.cs",
+              "DocumentMoniker": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\tests\\BracketGenerator.Tests\\TournamentServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\BracketGenerator.Tests\\TournamentServiceTests.cs",
+              "ToolTip": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\tests\\BracketGenerator.Tests\\TournamentServiceTests.cs",
+              "RelativeToolTip": "tests\\BracketGenerator.Tests\\TournamentServiceTests.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAADwv6QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:57:57.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITournamentService.cs",
+              "DocumentMoniker": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\src\\BracketGenerator\\Interfaces\\ITournamentService.cs",
+              "RelativeDocumentMoniker": "src\\BracketGenerator\\Interfaces\\ITournamentService.cs",
+              "ToolTip": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\src\\BracketGenerator\\Interfaces\\ITournamentService.cs",
+              "RelativeToolTip": "src\\BracketGenerator\\Interfaces\\ITournamentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:28:05.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\src\\BracketGenerator\\Services\\TeamService.cs",
+              "RelativeDocumentMoniker": "src\\BracketGenerator\\Services\\TeamService.cs",
+              "ToolTip": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\src\\BracketGenerator\\Services\\TeamService.cs",
+              "RelativeToolTip": "src\\BracketGenerator\\Services\\TeamService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:10:21.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\src\\BracketGenerator\\Model\\Match.cs",
+              "RelativeDocumentMoniker": "src\\BracketGenerator\\Model\\Match.cs",
+              "ToolTip": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\src\\BracketGenerator\\Model\\Match.cs",
+              "RelativeToolTip": "src\\BracketGenerator\\Model\\Match.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:33:17.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\src\\BracketGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "src\\BracketGenerator\\Program.cs",
+              "ToolTip": "C:\\CodingChallenge.Backend.BracketGenerator\\BracketGenerator\\src\\BracketGenerator\\Program.cs",
+              "RelativeToolTip": "src\\BracketGenerator\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:17:08.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

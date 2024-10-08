@@ -1,0 +1,37 @@
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\BracketGenerator.exe
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\BracketGenerator.deps.json
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\BracketGenerator.runtimeconfig.json
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\BracketGenerator.dll
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\BracketGenerator.pdb
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.csproj.AssemblyReference.cache
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.AssemblyInfoInputs.cache
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.AssemblyInfo.cs
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.csproj.CoreCompileInputs.cache
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketG.227D06A5.Up2Date
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.dll
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\refint\BracketGenerator.dll
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.pdb
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.genruntimeconfig.cache
+C:\Users\sakuj\Downloads\CodingChallenge.Backend.BracketGenerator (1)\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\ref\BracketGenerator.dll
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\BracketGenerator.exe
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\BracketGenerator.deps.json
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\BracketGenerator.runtimeconfig.json
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\BracketGenerator.dll
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\BracketGenerator.pdb
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.csproj.AssemblyReference.cache
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.AssemblyInfoInputs.cache
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.AssemblyInfo.cs
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.csproj.CoreCompileInputs.cache
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketG.227D06A5.Up2Date
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.dll
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\refint\BracketGenerator.dll
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.pdb
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\BracketGenerator.genruntimeconfig.cache
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\obj\Debug\net6.0\ref\BracketGenerator.dll
+C:\CodingChallenge.Backend.BracketGenerator\BracketGenerator\src\BracketGenerator\bin\Debug\net6.0\Data\teams.json

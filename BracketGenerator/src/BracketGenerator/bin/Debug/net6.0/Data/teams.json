@@ -1,0 +1,162 @@
+[
+  {
+    "Seed": "1A",
+    "Team": "Qatar",
+    "Group": "A"
+  },
+  {
+    "Seed": "1A",
+    "Team": "Ecuador",
+    "Group": "A"
+  },
+  {
+    "Seed": "2B",
+    "Team": "Senagal",
+    "Group": "A"
+  },
+  {
+    "Seed": "2B",
+    "Team": "Netherlands",
+    "Group": "A"
+  },
+  {
+    "Seed": "1B",
+    "Team": "England",
+    "Group": "B"
+  },
+  {
+    "Seed": "1B",
+    "Team": "Iran",
+    "Group": "B"
+  },
+  {
+    "Seed": "2A",
+    "Team": "USA",
+    "Group": "B"
+  },
+  {
+    "Seed": "2A",
+    "Team": "Wales",
+    "Group": "B"
+  },
+  {
+    "Seed": "1C",
+    "Team": "Argentina",
+    "Group": "C"
+  },
+  {
+    "Seed": "1C",
+    "Team": "Saudi Arabia",
+    "Group": "C"
+  },
+  {
+    "Seed": "2D",
+    "Team": "Mexico",
+    "Group": "C"
+  },
+  {
+    "Seed": "2D",
+    "Team": "Poland",
+    "Group": "C"
+  },
+  {
+    "Seed": "1D",
+    "Team": "France",
+    "Group": "D"
+  },
+  {
+    "Seed": "1D",
+    "Team": "Australia",
+    "Group": "D"
+  },
+  {
+    "Seed": "2C",
+    "Team": "Denmark",
+    "Group": "D"
+  },
+  {
+    "Seed": "2C",
+    "Team": "Tunisia",
+    "Group": "D"
+  },
+  {
+    "Seed": "1E",
+    "Team": "Spain",
+    "Group": "E"
+  },
+  {
+    "Seed": "1E",
+    "Team": "Costa Rica",
+    "Group": "E"
+  },
+  {
+    "Seed": "2F",
+    "Team": "Germany",
+    "Group": "E"
+  },
+  {
+    "Seed": "2F",
+    "Team": "Japan",
+    "Group": "E"
+  },
+  {
+    "Seed": "1F",
+    "Team": "Belgium",
+    "Group": "F"
+  },
+  {
+    "Seed": "1F",
+    "Team": "Canada",
+    "Group": "F"
+  },
+  {
+    "Seed": "2E",
+    "Team": "Morocco",
+    "Group": "F"
+  },
+  {
+    "Seed": "2E",
+    "Team": "Croatia",
+    "Group": "F"
+  },
+  {
+    "Seed": "1G",
+    "Team": "Brazil",
+    "Group": "G"
+  },
+  {
+    "Seed": "1G",
+    "Team": "Serbia",
+    "Group": "G"
+  },
+  {
+    "Seed": "2H",
+    "Team": "Switzerland",
+    "Group": "G"
+  },
+  {
+    "Seed": "2H",
+    "Team": "Cameroon",
+    "Group": "G"
+  },
+  {
+    "Seed": "1H",
+    "Team": "Portugal",
+    "Group": "H"
+  },
+  {
+    "Seed": "1H",
+    "Team": "Ghana",
+    "Group": "H"
+  },
+  {
+    "Seed": "2G",
+    "Team": "Uruguay",
+    "Group": "H"
+  },
+  {
+    "Seed": "2G",
+    "Team": "South Korea",
+    "Group": "H"
+  }
+]
